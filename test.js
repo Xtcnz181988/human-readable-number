@@ -6002,3 +6002,5 @@ it('Should return \'nine hundred ninety nine\' when 999 given', () => {
 
   assert.equal(readable, 'nine hundred ninety nine');
 });
+
+
